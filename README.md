@@ -11,7 +11,7 @@ Proyecto de carrera sobre el famoso juego de mesa Monopoly
 * [Contacto](#contacto)
 
 ## Información general
-Este proyecto ha sido realizado para la asignatura "Programación Orientada a Objetos" en la carrera de Ingeniería Informática de la Universidade de Santiago de Compostela junto con mi compañera Lara Padrón Cousillas en el año 2019. Constaba de 3 entregas, siendo esta la versión final del proyecto.
+Este proyecto ha sido realizado para la asignatura "Programación Orientada a Objetos" en la carrera de Ingeniería Informática de la Universidade de Santiago de Compostela junto con mi compañera [@laarapc](https://github.com/laarapc) en el año 2019. Constaba de 3 entregas, siendo esta la versión final del proyecto.
 En él, cada casilla representa una carrera de la universidad, sin contar el resto de casillas especiales disponibles a lo largo del tablero.
 
 ## Tecnologías
@@ -53,4 +53,4 @@ Este proyecto se encuentra finalizado desde 2019.
 Decidimos basarlo en las carreras de la universidad para darle un toque más novedoso y creativo.
 
 ## Contact
-Creado por [@albertoruibalojea](https://github.com/albertoruibalojea) y por [@albertoruibalojea](https://github.com/albertoruibalojea).
+Creado por [@albertoruibalojea](https://github.com/albertoruibalojea) y por [@laarapc](https://github.com/laarapc).
